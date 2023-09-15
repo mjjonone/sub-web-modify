@@ -10,7 +10,7 @@ on:
 env:
   REGISTRY: ghcr.io
   OWNER: ${{ github.repository_owner }}
-  IMAGE_NAME: ${{ github.repository_owner }}/sub
+  IMAGE_NAME: ${{ github.repository_owner }}/sub-web
 
 jobs:
   build-and-publish:
