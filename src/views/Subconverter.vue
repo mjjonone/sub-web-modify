@@ -462,10 +462,10 @@ export default {
           "sub.cm": "https://sub.cm/short",
         },
         customBackend: {
-          "增强型后端【vless+hysteria】": "https://sub-y1gj.onrender.com",
+          "增强型后端【vless+hysteria】": "https://tediousunrealisticglueware.11199911.repl.co",
         },
         backendOptions: [
-          {value: "https://sub-y1gj.onrender.com"},
+          {value: "https://tediousunrealisticglueware.11199911.repl.co"},
         ],
         remoteConfig: [
           {
